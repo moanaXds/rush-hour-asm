@@ -21,8 +21,11 @@ Built from scratch using pure Assembly Language - no game engines, no high-level
 - **Randomized Elements**: Obstacles, passengers, and bonuses spawn randomly each game
 
 <img width="433" height="221" alt="image" src="https://github.com/user-attachments/assets/16df7a5a-6caf-42fc-ab11-d5667f287639" />
+
 <img width="426" height="223" alt="image" src="https://github.com/user-attachments/assets/865da184-532d-4889-a68e-40f6e8f4118a" />
+
 <img width="360" height="289" alt="image" src="https://github.com/user-attachments/assets/51f6ebb6-2619-458a-adce-c8d1d7ba4373" />
+
 <img width="417" height="215" alt="image" src="https://github.com/user-attachments/assets/c5104d73-7a3d-4cd2-ac85-0afa7d1c24b2" />
 ---
 
