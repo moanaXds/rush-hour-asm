@@ -8,17 +8,6 @@ A classic arcade-style taxi simulation game built entirely in x86 Assembly Langu
 
 Built from scratch using pure Assembly Language - no game engines, no high-level frameworks, just raw processor instructions!
 
-█████████████████████
-█   $  ▒  █      P  █
-█     ♠        ▒    █
-█  P    █           █
-█        ♠    $     █
-█   ▒      D        █
-█     █             █
-█  ♠       P    ▒   █
-█████████████████████
-
-
 ## ✨ Features
 
 - **Two Game Modes**: Career Mode and Time Attack Mode
