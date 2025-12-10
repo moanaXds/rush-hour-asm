@@ -180,21 +180,11 @@ This project provided hands-on experience with:
 
 ---
 
-## 🚀 Future Enhancements
-
-Potential improvements for future versions:
+## Need to improve on:
 
 - [ ] **Multiplayer Mode** - Two-player competitive gameplay
-- [ ] **Power-ups** - Speed boost, invincibility, double points
 - [ ] **Difficulty Levels** - Easy, Medium, Hard presets
 - [ ] **Better Graphics** - Enhanced ASCII art or bitmap graphics
 - [ ] **Sound Effects** - Collision sounds, pickup sounds, etc.
-- [ ] **More AI Vehicles** - Increased traffic density
-- [ ] **Day/Night Cycle** - Visual variety with time-based themes
-- [ ] **Achievements System** - Unlock rewards for milestones
-- [ ] **Online Leaderboard** - Cloud-based high score tracking
-- [ ] **Mobile Port** - Android/iOS version using ARM assembly
+- [ ] **Leaderboard** - Store Top 10 scores
 
-**Made with ❤️ and lots of Assembly code**
-
-!
